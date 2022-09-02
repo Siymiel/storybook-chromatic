@@ -1,8 +1,8 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import './button.css';
-// "chromatic": "npx chromatic --project-token=efadc92e3034"
 
+// "chromatic": "npx chromatic --project-token=efadc92e3034"
 /**
  * Primary UI component for user interaction
  */
